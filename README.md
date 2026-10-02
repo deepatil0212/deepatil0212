@@ -1,63 +1,25 @@
-# Hi there, I'm Deepa Patil 👋
-
-### Full Stack Developer | Python · Node.js · PostgreSQL · Docker · AWS
-
-I'm a full stack developer with 1–3 years of experience building scalable web applications, RESTful APIs, and data-driven tools. I enjoy turning complex problems into clean, efficient solutions — from backend services to interactive dashboards.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-## 🚀 What I've Built
-
-- 🤖 **AI-powered Blind Assistance System** — Real-time object detection using YOLO algorithm with distance calculation from camera data
-- 📊 **Web dashboards & analytics tools** — End-to-end data visualization platforms for real-time insights
-- 🔗 **REST APIs & microservices** — Scalable backend services with clean architecture
-- 🔄 **Data pipelines** — Automated data collection, transformation, and reporting workflows
-
----
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Blind Assistance System](https://github.com/deepatil0212/Blind-assistance-system-with-distance-calculator) | Real-time object detection & distance calculator for visually impaired users | Python, YOLO |
-| 🔧 Coming Soon | Full Stack Dashboard with REST API | Node.js, PostgreSQL, Docker |
-| 🔧 Coming Soon | Data Pipeline & Analytics Tool | Python, AWS |
-
----
-
-## 📈 GitHub Stats
-
-![Deepa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepatil0212&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepatil0212&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepa-patil-332925345)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepatil0212@gmail.com)
-
----
-
-*Open to full stack and backend engineering opportunities. Feel free to reach out!* 🚀
+Hi, I'm Deepa Patil 👋
+Software Development Engineer | Full-Stack & AI Applications | Bangalore, India
+I build production full-stack and AI-powered applications: HR and workforce platforms, AI sales tools built on Anthropic Claude, and WhatsApp/OCR automation. I handle everything from requirements and UX to backend, database, integrations, and deployment.
+What I'm working on
+Hive: an HR and workforce platform with 24+ modules and 160+ data models, used by 74+ employees
+Eleczo V2: AI tools for sales and engineering, including a BOM-to-part matcher and natural-language product search
+Lead-capture automation: business-card OCR with automated WhatsApp follow-ups
+Featured projects
+Project	What it does	Stack
+Hive	HR, attendance, CRM, project management, access control	Next.js, TypeScript, Prisma, PostgreSQL
+Eleczo V2	AI product search, BOM matching, message drafting	Node.js, React, PostgreSQL, Redis, Meilisearch, Claude
+Event Card Scanner	Business-card OCR and WhatsApp lead follow-up	Python, Flask, MySQL, Google Cloud Vision
+SEO & Product Page Tools	Keyword generator and product-page builder	Python, HTML, JavaScript
+> These projects were built at Eleczo India Pvt. Ltd. Each repository is a showcase (README only), and the source code is private.
+Tech stack
+Languages: JavaScript, TypeScript, Python
+Frontend: React, Next.js, Tailwind CSS
+Backend: Node.js, Express, Flask, Laravel, REST APIs, GraphQL
+Databases: PostgreSQL, MySQL, Prisma, Redis, Meilisearch
+AI: Anthropic Claude, LLM integration, prompt engineering
+Integrations: Microsoft Graph (OAuth 2.0), WhatsApp (Interakt), Brevo, Google Cloud Vision
+DevOps and testing: Docker, Nginx, Linux, Cloudflare Tunnel, Git, Jest, Playwright
+Contact
+Email: deepatil0212@gmail.com
+LinkedIn: linkedin.com/in/deepa-patil-332925345
